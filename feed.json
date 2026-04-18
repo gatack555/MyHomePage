@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "OMTea App",
     "description": "",
-    "home_page_url": "https://gatack555.github.io/MyHomePage",
-    "feed_url": "https://gatack555.github.io/MyHomePage/feed.json",
+    "home_page_url": "https://www.omtea.app",
+    "feed_url": "https://www.omtea.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "OMT"
     },
     "items": [
         {
-            "id": "https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html",
-            "url": "https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html",
+            "id": "https://www.omtea.app/gong-shi-zhong-dayon.html",
+            "url": "https://www.omtea.app/gong-shi-zhong-dayon.html",
             "title": "工事中だよん",
             "summary": "under constructer",
             "content_html": "<p>under constructer</p>",
