@@ -3,7 +3,7 @@
     <title>OMTea App</title>
     <link href="https://gatack555.github.io/MyHomePage/feed.xml" rel="self" />
     <link href="https://gatack555.github.io/MyHomePage" />
-    <updated>2026-04-19T06:31:30+09:00</updated>
+    <updated>2026-04-19T07:07:26+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
@@ -18,7 +18,15 @@
         <id>https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html</id>
 
         <updated>2026-04-19T06:31:30+09:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    under constructer
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>under constructer</p>
+            ]]>
+        </content>
     </entry>
 </feed>
