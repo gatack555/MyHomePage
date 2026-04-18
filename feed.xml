@@ -29,36 +29,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>どういうこっちゃ</title>
-        <author>
-            <name>OMT</name>
-        </author>
-        <link href="https://www.omtea.app/douiukotutiya.html"/>
-        <id>https://www.omtea.app/douiukotutiya.html</id>
-
-        <updated>2026-04-19T07:51:30+09:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>工事中だよん</title>
-        <author>
-            <name>OMT</name>
-        </author>
-        <link href="https://www.omtea.app/gong-shi-zhong-dayon.html"/>
-        <id>https://www.omtea.app/gong-shi-zhong-dayon.html</id>
-
-        <updated>2026-04-19T06:31:30+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    under constructer
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>under constructer</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
