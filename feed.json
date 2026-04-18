@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://www.omtea.app/omtea-logo.html",
+            "url": "https://www.omtea.app/omtea-logo.html",
+            "title": "OMTea Logo",
+            "image": "https://www.omtea.app/media/posts/8/IMG_2930.jpeg",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T08:52:32+09:00",
+            "date_modified": "2026-04-19T08:52:32+09:00"
+        },
+        {
             "id": "https://www.omtea.app/fan-mu-noposuto-2.html",
             "url": "https://www.omtea.app/fan-mu-noposuto-2.html",
             "title": "④番目のぽすと (copy)",

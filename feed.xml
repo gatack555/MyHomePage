@@ -3,12 +3,25 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>2026-04-19T08:18:23+09:00</updated>
+    <updated>2026-04-19T08:52:32+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
     <id>https://www.omtea.app</id>
 
+    <entry>
+        <title>OMTea Logo</title>
+        <author>
+            <name>OMT</name>
+        </author>
+        <link href="https://www.omtea.app/omtea-logo.html"/>
+        <id>https://www.omtea.app/omtea-logo.html</id>
+        <media:content url="https://www.omtea.app/media/posts/8/IMG_2930.jpeg" medium="image" />
+
+        <updated>2026-04-19T08:52:32+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>④番目のぽすと (copy)</title>
         <author>
