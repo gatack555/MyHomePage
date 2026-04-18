@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://www.omtea.app/fan-mu-noposuto-2.html",
+            "url": "https://www.omtea.app/fan-mu-noposuto-2.html",
+            "title": "④番目のぽすと (copy)",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T08:18:23+09:00",
+            "date_modified": "2026-04-19T08:18:23+09:00"
+        },
+        {
+            "id": "https://www.omtea.app/fan-mu-noposuto.html",
+            "url": "https://www.omtea.app/fan-mu-noposuto.html",
+            "title": "④番目のぽすと",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T08:18:13+09:00",
+            "date_modified": "2026-04-19T08:18:13+09:00"
+        },
+        {
             "id": "https://www.omtea.app/san-fan-mu-noposuto.html",
             "url": "https://www.omtea.app/san-fan-mu-noposuto.html",
             "title": "三番目のポスト",
