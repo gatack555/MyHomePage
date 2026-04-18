@@ -3,12 +3,32 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>2026-04-19T07:51:30+09:00</updated>
+    <updated>2026-04-19T07:58:06+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
     <id>https://www.omtea.app</id>
 
+    <entry>
+        <title>ぐだぐたポスト</title>
+        <author>
+            <name>OMT</name>
+        </author>
+        <link href="https://www.omtea.app/gudagutaposuto.html"/>
+        <id>https://www.omtea.app/gudagutaposuto.html</id>
+
+        <updated>2026-04-19T07:58:06+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    どういうこっちゃかな
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>どういうこっちゃかな</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>どういうこっちゃ</title>
         <author>

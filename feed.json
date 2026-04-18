@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.omtea.app/gudagutaposuto.html",
+            "url": "https://www.omtea.app/gudagutaposuto.html",
+            "title": "ぐだぐたポスト",
+            "summary": "どういうこっちゃかな",
+            "content_html": "<p>どういうこっちゃかな</p>",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T07:58:06+09:00",
+            "date_modified": "2026-04-19T07:58:06+09:00"
+        },
+        {
             "id": "https://www.omtea.app/douiukotutiya.html",
             "url": "https://www.omtea.app/douiukotutiya.html",
             "title": "どういうこっちゃ",
