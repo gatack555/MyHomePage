@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gatack555.github.io/MyHomePage/sitemap.xml

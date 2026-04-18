@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>OMTea App</title>
+    <link href="https://gatack555.github.io/MyHomePage/feed.xml" rel="self" />
+    <link href="https://gatack555.github.io/MyHomePage" />
+    <updated>2026-04-19T06:31:30+09:00</updated>
+    <author>
+        <name>OMT</name>
+    </author>
+    <id>https://gatack555.github.io/MyHomePage</id>
+
+    <entry>
+        <title>工事中だよん</title>
+        <author>
+            <name>OMT</name>
+        </author>
+        <link href="https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html"/>
+        <id>https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html</id>
+
+        <updated>2026-04-19T06:31:30+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

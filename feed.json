@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "OMTea App",
+    "description": "",
+    "home_page_url": "https://gatack555.github.io/MyHomePage",
+    "feed_url": "https://gatack555.github.io/MyHomePage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "OMT"
+    },
+    "items": [
+        {
+            "id": "https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html",
+            "url": "https://gatack555.github.io/MyHomePage/gong-shi-zhong-dayon.html",
+            "title": "工事中だよん",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T06:31:30+09:00",
+            "date_modified": "2026-04-19T06:31:30+09:00"
+        }
+    ]
+}
