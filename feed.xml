@@ -3,12 +3,34 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>2026-04-19T07:58:06+09:00</updated>
+    <updated>2026-04-19T08:10:06+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
     <id>https://www.omtea.app</id>
 
+    <entry>
+        <title>あたらしいぽすと</title>
+        <author>
+            <name>OMT</name>
+        </author>
+        <link href="https://www.omtea.app/atarasiiposuto.html"/>
+        <id>https://www.omtea.app/atarasiiposuto.html</id>
+
+        <updated>2026-04-19T08:10:06+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    どんどん話がすすんでいく 快適な時間が進んでいく
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="どんどん話がすすんでいく">どんどん話がすすんでいく</h1>
+<h2 id="快適な時間が進んでいく">快適な時間が進んでいく</h2>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ぐだぐたポスト</title>
         <author>

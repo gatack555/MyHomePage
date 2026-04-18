@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.omtea.app/atarasiiposuto.html",
+            "url": "https://www.omtea.app/atarasiiposuto.html",
+            "title": "あたらしいぽすと",
+            "summary": "どんどん話がすすんでいく 快適な時間が進んでいく",
+            "content_html": "<h1 id=\"どんどん話がすすんでいく\">どんどん話がすすんでいく</h1>\n<h2 id=\"快適な時間が進んでいく\">快適な時間が進んでいく</h2>\n",
+            "author": {
+                "name": "OMT"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T08:10:06+09:00",
+            "date_modified": "2026-04-19T08:10:06+09:00"
+        },
+        {
             "id": "https://www.omtea.app/gudagutaposuto.html",
             "url": "https://www.omtea.app/gudagutaposuto.html",
             "title": "ぐだぐたポスト",
