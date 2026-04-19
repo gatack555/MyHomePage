@@ -3,10 +3,22 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2026-04-19T16:59:46+09:00</updated>
     <author>
         <name>MO</name>
     </author>
     <id>https://www.omtea.app</id>
 
+    <entry>
+        <title>Ping Pong Analyzer</title>
+        <author>
+            <name>MO</name>
+        </author>
+        <link href="https://www.omtea.app/first-post.html"/>
+        <id>https://www.omtea.app/first-post.html</id>
+
+        <updated>2026-04-19T16:49:06+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

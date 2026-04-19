@@ -9,5 +9,17 @@
         "name": "MO"
     },
     "items": [
+        {
+            "id": "https://www.omtea.app/first-post.html",
+            "url": "https://www.omtea.app/first-post.html",
+            "title": "Ping Pong Analyzer",
+            "author": {
+                "name": "MO"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-19T16:49:06+09:00",
+            "date_modified": "2026-04-19T16:59:46+09:00"
+        }
     ]
 }
