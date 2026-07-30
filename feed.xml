@@ -3,7 +3,7 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>2026-07-30T11:33:26+09:00</updated>
+    <updated>2026-07-30T14:14:54+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
@@ -21,21 +21,80 @@
         <updated>2026-05-16T18:17:02+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    卓球分析アプリ その”なんとなく”を、ちょっと言葉にしてみよう。 Pongorithmは、卓球の得点パターンと失点パターンを見える化するアプリです。 どの技で点を取れているのか、どのコースに決まっているのか、 相手のミスなのか、自分の決定打なのか。 自動で集計して、”なんとなく”だった傾向を具体的な形にします。 お渡しするのは、答えではなく「素材」。 素材をどう料理して次の一手に変えるかは、あなた次第です。 勝っても負けても、見えてくるものがある。 試合の”結果”ではなく、”気づき”を。 Let’s put those “vague intuitions” into words. Pongorithm is an app designed to visualize your scoring and losing patterns in table tennis. Which techniques are winning points? Which placement brought the winner? Was it an&hellip;
+                    コンセプト あなたの試合を、棋譜にする。 “なんとなく”を、具体的な形に。 答えではなく、気づきを。 Pongorithmは、卓球の得点パターンと失点パターンを見える化するアプリです。 どの技で点を取れているのか、どのコースに決まっているのか、 相手のミスなのか、自分の決定打なのか。 お渡しするのは、答えではなく「棋譜」。 そこから次の一手を読むのは、あなた自身です。 「このコースのサーブは得点に結びつきやすい」 「このコースにツッツキすると相手がミスしやすい」 強い選手は、試合の最中に自分で分析して、そこを突いてくる。 でも初心者は、目の前の一球に必死で、そこまで頭が回らない。 Pongorithmは、上級者が試合中に考えていそうなことを、コース別・技別に見える化します。 くり返すうちに、コート上でも、あなたが”自分の頭”で気づけるようになる。 アプリが答えを出すのではなく、あなた自身が分析できるように。 Pongorithm is an app that visualizes how you win and lose points in table tennis. Which strokes are earning your points? Where are your winning shots landing? Are you&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3 id="卓球分析アプリ">卓球分析アプリ</h3>
-<p><em>その”なんとなく”を、ちょっと言葉にしてみよう。</em></p><p>Pongorithmは、卓球の得点パターンと失点パターンを見える化するアプリです。</p><p>どの技で点を取れているのか、どのコースに決まっているのか、 相手のミスなのか、自分の決定打なのか。 自動で集計して、”なんとなく”だった傾向を具体的な形にします。</p><p>お渡しするのは、答えではなく「素材」。 素材をどう料理して次の一手に変えるかは、あなた次第です。</p><p>勝っても負けても、見えてくるものがある。 試合の”結果”ではなく、”気づき”を。</p><ul>
+                <h1 id="コンセプト">コンセプト</h1>
+<h3 id="あなたの試合を、棋譜にする。">あなたの試合を、棋譜にする。</h3>
+<h3 id="なんとなくを、具体的な形に。">“なんとなく”を、具体的な形に。</h3>
+<h3 id="答えではなく、気づきを。">答えではなく、気づきを。</h3>
+<p>Pongorithmは、卓球の得点パターンと失点パターンを見える化するアプリです。
+どの技で点を取れているのか、どのコースに決まっているのか、 相手のミスなのか、自分の決定打なのか。
+お渡しするのは、答えではなく「棋譜」。
+そこから次の一手を読むのは、あなた自身です。</p><p>「このコースのサーブは得点に結びつきやすい」
+「このコースにツッツキすると相手がミスしやすい」
+強い選手は、試合の最中に自分で分析して、そこを突いてくる。</p><p>でも初心者は、目の前の一球に必死で、そこまで頭が回らない。</p><p>Pongorithmは、上級者が試合中に考えていそうなことを、コース別・技別に見える化します。
+くり返すうちに、コート上でも、あなたが”自分の頭”で気づけるようになる。
+アプリが答えを出すのではなく、あなた自身が分析できるように。</p><h2 id="記録する">記録する</h2>
+<ul>
+<li>リアルタイムで試合を見ながら<ul>
+<li>サーブからの３球を記録するOpeningモード</li>
+<li>得点・失点につながったラスト３球を記録するEndingモード</li>
+</ul>
+</li>
+<li>あとから試合動画を振り返りながら<ul>
+<li>すべての打球を記録するFull Rallyモード</li>
+</ul>
+</li>
+</ul>
+<h2 id="卓球脳を鍛える">卓球脳を鍛える</h2>
+<ul>
+<li>ラリー棋譜を再生してポイント毎に振り返る</li>
+<li>ラリー分析結果を俯瞰して、得点パターンと失点パターンを把握する</li>
+<li>次はどうやって得点するか作戦を練る</li>
+</ul>
+<h4 id="勝っても負けても、見えてくるものがある。">勝っても負けても、見えてくるものがある。</h4>
+<ul>
 <li>「Pongorithm」は商標出願中です。</li>
 <li>独自のラリーデータ記録・分析システムに関わる特許を出願中です。</li>
+<li>iPad専用アプリです。</li>
 </ul>
 <hr>
-<h3 id="table-tennis-analysis-app">Table Tennis Analysis App</h3>
-<p><em>Let’s put those “vague intuitions” into words.</em></p><p>Pongorithm is an app designed to visualize your scoring and losing patterns in table tennis.</p><p>Which techniques are winning points? Which placement brought the winner? Was it an opponent’s unforced error or your own decisive shot? The app automatically aggregates this data, turning your vague impressions into concrete, actionable insights.</p><p>What we provide is not a ready-made answer, but the “raw material.” How you turn that material into your next move is entirely up to you.</p><p>Win or lose, there is always something to discover. Focus less on the “result” of the match, and more on the “insight.”</p><ul>
-<li>“Pongorithm” is a pending trademark application.</li>
-<li>Patent pending on our proprietary rally data recording and analysis system.</li>
+<h1 id="concept">Concept</h1>
+<h3 id="turn-every-match-into-a-game-you-can-study-point-by-point">Turn every match into a game you can study, point by point.</h3>
+<h3 id="turn-a-vague-hunch-into-something-you-can-see">Turn a vague hunch into something you can see.</h3>
+<h3 id="not-answers-but-insights">Not answers, but insights.</h3>
+<p>Pongorithm is an app that visualizes how you win and lose points in table tennis.
+Which strokes are earning your points? Where are your winning shots landing? Are you scoring off your opponent’s mistakes, or your own winners?</p><p>What Pongorithm gives you isn’t the answer—it’s a record of your match.
+Reading it, and choosing your next move, is up to you.</p><p>“Serves to this spot tend to win points.”
+“When I push to this spot, my opponent tends to miss.”
+Strong players spot patterns like these in the middle of a match and turn them to their advantage.</p><p>Beginners, though, are usually too locked onto the ball in front of them to think that far ahead.</p><p>Pongorithm visualizes the kinds of patterns experienced players are watching for during a match, broken down by placement and stroke.
+Over time, you’ll start catching them yourself—even out on the court.</p><p>The app isn’t here to give you the answers.
+It’s here to teach you to analyze the game yourself.</p><h2 id="record-your-match">Record Your Match</h2>
+<ul>
+<li>While watching a match live<ul>
+<li>Opening Mode — record the first three shots, starting from the serve</li>
+<li>Ending Mode — record the final three shots that win or lose the point</li>
+</ul>
+</li>
+<li>While reviewing match video later<ul>
+<li>Full Rally Mode — record every shot in the rally</li>
+</ul>
+</li>
+</ul>
+<h2 id="build-your-table-tennis-iq">Build Your Table Tennis IQ</h2>
+<ul>
+<li>Replay your rally records and review every point</li>
+<li>Step back and read your rallies to see the patterns behind points won and lost</li>
+<li>Plan how you’ll win the next point</li>
+</ul>
+<h4 id="win-or-lose-theres-always-something-to-discover">Win or lose, there’s always something to discover.</h4>
+<ul>
+<li>“Pongorithm” is a trademark pending registration.</li>
+<li>A patent application has been filed for our proprietary rally recording and analysis system.</li>
+<li>Pongorithm is designed exclusively for iPad.</li>
 </ul>
 
             ]]>
