@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>OMTea App</title>
+    <title>Pongorithm</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
     <updated>2026-07-30T14:14:54+09:00</updated>
