@@ -3,10 +3,60 @@
     <title>OMTea App</title>
     <link href="https://www.omtea.app/feed.xml" rel="self" />
     <link href="https://www.omtea.app" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2026-10-20T12:20:46+09:00</updated>
     <author>
         <name>OMT</name>
     </author>
     <id>https://www.omtea.app</id>
 
+    <entry>
+        <title>★★★</title>
+        <author>
+            <name>OMT</name>
+        </author>
+        <link href="https://www.omtea.app/topics.html"/>
+        <id>https://www.omtea.app/topics.html</id>
+
+        <updated>2026-10-20T12:12:23+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <h2 id="リリース記念キャンペーン">リリース記念キャンペーン</h2>
+<h3 id="カルテ作成100回分を無料プレゼント！">カルテ作成100回分を無料プレゼント！</h3>
+<h4 id="2026年12月末までにpongqrをインストールすると、カルテを100回無料で作成できます。">2026年12月末までにPongQRをインストールすると、カルテを100回無料で作成できます。</h4>
+<ul>
+<li>未使用分はキャンペーン後もご利用頂け、アプリのアップデート後も引き継がれます。</li>
+<li>キャンペーン期間終了後の初回無料枠は、10回となる予定です。</li>
+</ul>
+<hr>
+<h2 id="launch-campaign">Launch Campaign</h2>
+<h3 id="100-free-coaching-note-creations">100 Free Coaching Note Creations!</h3>
+<h4 id="install-pongqr-by-the-end-of-december-2026-and-create-up-to-100-coaching-notes-for-free">Install PongQR by the end of December 2026, and create up to 100 Coaching Notes for free.</h4>
+<ul>
+<li>Unused credits never expire and will carry over when you update the app.</li>
+<li>After the campaign ends, new users are expected to receive 10 free credits.</li>
+</ul>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="リリース記念キャンペーン">リリース記念キャンペーン</h2>
+<h3 id="カルテ作成100回分を無料プレゼント！">カルテ作成100回分を無料プレゼント！</h3>
+<h4 id="2026年12月末までにpongqrをインストールすると、カルテを100回無料で作成できます。">2026年12月末までにPongQRをインストールすると、カルテを100回無料で作成できます。</h4>
+<ul>
+<li>未使用分はキャンペーン後もご利用頂け、アプリのアップデート後も引き継がれます。</li>
+<li>キャンペーン期間終了後の初回無料枠は、10回となる予定です。</li>
+</ul>
+<hr>
+<h2 id="launch-campaign">Launch Campaign</h2>
+<h3 id="100-free-coaching-note-creations">100 Free Coaching Note Creations!</h3>
+<h4 id="install-pongqr-by-the-end-of-december-2026-and-create-up-to-100-coaching-notes-for-free">Install PongQR by the end of December 2026, and create up to 100 Coaching Notes for free.</h4>
+<ul>
+<li>Unused credits never expire and will carry over when you update the app.</li>
+<li>After the campaign ends, new users are expected to receive 10 free credits.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
